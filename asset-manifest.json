@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/tipsrunda/static/css/main.808dd354.chunk.css",
-    "main.js": "/tipsrunda/static/js/main.2d05ede5.chunk.js",
-    "main.js.map": "/tipsrunda/static/js/main.2d05ede5.chunk.js.map",
+    "main.css": "/tipsrunda/static/css/main.175a4d8c.chunk.css",
+    "main.js": "/tipsrunda/static/js/main.946db998.chunk.js",
+    "main.js.map": "/tipsrunda/static/js/main.946db998.chunk.js.map",
     "runtime-main.js": "/tipsrunda/static/js/runtime-main.70703a9b.js",
     "runtime-main.js.map": "/tipsrunda/static/js/runtime-main.70703a9b.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/tipsrunda/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.727c4e4f.chunk.js": "/tipsrunda/static/js/2.727c4e4f.chunk.js",
     "static/js/2.727c4e4f.chunk.js.map": "/tipsrunda/static/js/2.727c4e4f.chunk.js.map",
     "index.html": "/tipsrunda/index.html",
-    "precache-manifest.8e6ff12fdc18e2b3c16cf90eec5cb460.js": "/tipsrunda/precache-manifest.8e6ff12fdc18e2b3c16cf90eec5cb460.js",
+    "precache-manifest.209ef64efbe2615b8da40bfcacc67cfc.js": "/tipsrunda/precache-manifest.209ef64efbe2615b8da40bfcacc67cfc.js",
     "service-worker.js": "/tipsrunda/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/tipsrunda/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.808dd354.chunk.css.map": "/tipsrunda/static/css/main.808dd354.chunk.css.map",
+    "static/css/main.175a4d8c.chunk.css.map": "/tipsrunda/static/css/main.175a4d8c.chunk.css.map",
     "static/js/2.727c4e4f.chunk.js.LICENSE.txt": "/tipsrunda/static/js/2.727c4e4f.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/tipsrunda/static/media/logo.5d5d9eef.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.70703a9b.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.727c4e4f.chunk.js",
-    "static/css/main.808dd354.chunk.css",
-    "static/js/main.2d05ede5.chunk.js"
+    "static/css/main.175a4d8c.chunk.css",
+    "static/js/main.946db998.chunk.js"
   ]
 }
