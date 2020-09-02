@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tipsrunda/static/css/main.808dd354.chunk.css",
-    "main.js": "/tipsrunda/static/js/main.097f95b2.chunk.js",
-    "main.js.map": "/tipsrunda/static/js/main.097f95b2.chunk.js.map",
+    "main.js": "/tipsrunda/static/js/main.2d05ede5.chunk.js",
+    "main.js.map": "/tipsrunda/static/js/main.2d05ede5.chunk.js.map",
     "runtime-main.js": "/tipsrunda/static/js/runtime-main.70703a9b.js",
     "runtime-main.js.map": "/tipsrunda/static/js/runtime-main.70703a9b.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/tipsrunda/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.727c4e4f.chunk.js": "/tipsrunda/static/js/2.727c4e4f.chunk.js",
     "static/js/2.727c4e4f.chunk.js.map": "/tipsrunda/static/js/2.727c4e4f.chunk.js.map",
     "index.html": "/tipsrunda/index.html",
-    "precache-manifest.dc193b6616ab8a6e31b570628720a9e1.js": "/tipsrunda/precache-manifest.dc193b6616ab8a6e31b570628720a9e1.js",
+    "precache-manifest.8e6ff12fdc18e2b3c16cf90eec5cb460.js": "/tipsrunda/precache-manifest.8e6ff12fdc18e2b3c16cf90eec5cb460.js",
     "service-worker.js": "/tipsrunda/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/tipsrunda/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.808dd354.chunk.css.map": "/tipsrunda/static/css/main.808dd354.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.727c4e4f.chunk.js",
     "static/css/main.808dd354.chunk.css",
-    "static/js/main.097f95b2.chunk.js"
+    "static/js/main.2d05ede5.chunk.js"
   ]
 }
