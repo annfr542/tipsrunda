@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tipsrunda/precache-manifest.98e22dde6dff39c65e7fbc6743bec540.js"
+  "/tipsrunda/precache-manifest.deddfbafa285dc89634a46727a036497.js"
 );
 
 self.addEventListener('message', (event) => {
