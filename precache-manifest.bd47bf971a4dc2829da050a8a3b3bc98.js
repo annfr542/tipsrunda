@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "514e46f6b40bd21a3aa0e609f6fb1fb9",
+    "revision": "f87c57db3cbed21029a20c2e1a6a0625",
     "url": "/tipsrunda/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tipsrunda/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "bd3514faefc22503ae85",
+    "revision": "b5007cca9b3229cdc0d2",
     "url": "/tipsrunda/static/css/main.175a4d8c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tipsrunda/static/js/2.9d700ded.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bd3514faefc22503ae85",
-    "url": "/tipsrunda/static/js/main.afa28c98.chunk.js"
+    "revision": "b5007cca9b3229cdc0d2",
+    "url": "/tipsrunda/static/js/main.3418bb7f.chunk.js"
   },
   {
     "revision": "902d58971ca66be80659",
